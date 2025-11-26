@@ -1,0 +1,13 @@
+{
+  "library": {
+    "name": "Green World Library",
+    "location": "North Avenue",
+    "totalBooks": 9800,
+    "open": true
+  },
+  "books": [
+    { "title": "Ocean Secrets", "author": "N. Blue", "year": 2021 },
+    { "title": "Mountain Echo", "author": "K. Hill", "year": 2020 },
+    { "title": "Python for All", "author": "C. Code", "year": 2023 }
+  ]
+}
